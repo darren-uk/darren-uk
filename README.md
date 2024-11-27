@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on projects involving basic front end. HTML CSS.
 - 🌍 Would love to work on projects highlighting environmental and climate changes.
-- 📫 Reach me @ [email](mailto:darren.tech@hotmail.co.uk)
+- 📫 Reach me @ [email](mailto:darren.colsonh@mail.com)
 
 <!---
 darren-uk/darren-uk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
